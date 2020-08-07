@@ -1,8 +1,10 @@
-# Tutorial - Phaser - Pong
+# Tutorial - Phaser - Pong v0.0.2
 
 > Quick tutorial for creating pong in Phaser v3
 
-## [Demo](https://bobthered-tut-phaser-pong.herokuapp.com/)
+[Demo](https://bobthered-tut-phaser-pong.herokuapp.com/)
+
+[Changelog](https://github.com/bobthered/tut-phaser-pong/blob/master/CHANGELOG.md)
 
 ## Tutorial Links
 
