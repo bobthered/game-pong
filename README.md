@@ -1,4 +1,4 @@
-# Tutorial - Phaser - Pong v0.0.2
+# Tutorial - Phaser - Pong v0.1.0
 
 > Quick tutorial for creating pong in Phaser v3
 
